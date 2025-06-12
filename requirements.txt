@@ -1,0 +1,5 @@
+# Optional dependencies for enhanced functionality
+ply==3.11  # Python Lex-Yacc for comparison
+pytest==7.4.0  # For testing
+black==23.7.0  # Code formatting
+

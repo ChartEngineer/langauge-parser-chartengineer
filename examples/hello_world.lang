@@ -1,0 +1,10 @@
+// Hello World program
+var message = "Hello, World!";
+print(message);
+
+// Variables and arithmetic
+var x = 10;
+var y = 20;
+var sum = x + y;
+print("Sum: " + sum);
+
